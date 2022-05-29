@@ -2,3 +2,4 @@ line 1
 line 2-modified
 add1---------1
 status1
+add.1

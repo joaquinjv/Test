@@ -1,3 +1,4 @@
 example 3 is this a test - modified
 add3------------------3
 status3
+stash3
