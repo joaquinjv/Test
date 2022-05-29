@@ -1,3 +1,4 @@
 line_example1_modified
 add2------------2
 status2
+stash
